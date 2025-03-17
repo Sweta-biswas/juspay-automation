@@ -1,7 +1,7 @@
 # Payment Automation Demo 
 
 ## About
-This project automates a payment journey on Flipkart using Selenium and Java. It navigates from login to checkout, stopping at the OTP page. Bonus points if you automate OTP handling! 😉
+This project automates a payment journey on Flipkart using Selenium and Java. It navigates from login to checkout, stopping at the OTP page. Bonus points if you automate OTP handling! 
 
 ## Features
  Open Flipkart & sign in  
