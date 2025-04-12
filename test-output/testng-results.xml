@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-03-26T14:10:22 IST" name="Default suite" finished-at="2025-03-26T14:11:25 IST" duration-ms="63209">
+    <groups>
+    </groups>
+    <test started-at="2025-03-26T14:10:22 IST" name="Default test" finished-at="2025-03-26T14:11:25 IST" duration-ms="63209">
+      <class name="main.AutomationDemonstration">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:main.AutomationDemonstration@6a03bcb1]" started-at="2025-03-26T14:10:22 IST" name="openBrowser" finished-at="2025-03-26T14:10:24 IST" duration-ms="2550" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="login()[pri:1, instance:main.AutomationDemonstration@6a03bcb1]" started-at="2025-03-26T14:10:25 IST" name="login" finished-at="2025-03-26T14:10:39 IST" duration-ms="14066" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="searchProduct()[pri:2, instance:main.AutomationDemonstration@6a03bcb1]" started-at="2025-03-26T14:10:39 IST" name="searchProduct" finished-at="2025-03-26T14:11:11 IST" duration-ms="32608" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchProduct -->
+        <test-method signature="addItemToCart()[pri:3, instance:main.AutomationDemonstration@6a03bcb1]" started-at="2025-03-26T14:11:11 IST" name="addItemToCart" finished-at="2025-03-26T14:11:16 IST" duration-ms="4341" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addItemToCart -->
+        <test-method signature="enterAddress()[pri:4, instance:main.AutomationDemonstration@6a03bcb1]" started-at="2025-03-26T14:11:16 IST" name="enterAddress" finished-at="2025-03-26T14:11:20 IST" duration-ms="3977" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterAddress -->
+        <test-method signature="payment()[pri:5, instance:main.AutomationDemonstration@6a03bcb1]" started-at="2025-03-26T14:11:20 IST" name="payment" finished-at="2025-03-26T14:11:24 IST" duration-ms="4852" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- payment -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:main.AutomationDemonstration@6a03bcb1]" started-at="2025-03-26T14:11:24 IST" name="closeBrowser" finished-at="2025-03-26T14:11:25 IST" duration-ms="705" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- main.AutomationDemonstration -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
